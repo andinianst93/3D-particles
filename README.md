@@ -4,9 +4,9 @@ Real-time particle effects yang ngikutin tangan dan muka pakai MediaPipe.
 
 ## 🚀 Quick Start
 
-1. Download `index.html` dan `app.js`
+1. Download `particle.html` dan `app.js`
 2. Taruh di folder yang sama
-3. Buka `index.html` di browser
+3. Buka `particle.html` di browser
 4. Klik **Start Camera** → izinkan akses kamera
 5. Tunjukin tangan & muka ke kamera!
 
@@ -34,7 +34,3 @@ Real-time particle effects yang ngikutin tangan dan muka pakai MediaPipe.
 - **MediaPipe Hands** — 21 landmark per tangan
 - **MediaPipe Face Mesh** — 468 landmark wajah
 - **Canvas 2D** — Rendering particle & trails
-
-## 📝 License
-
-MIT
